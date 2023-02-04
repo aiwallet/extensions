@@ -1,0 +1,506 @@
+{
+    "releaseNotes": [
+        {
+            "version": "0.1.6",
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Added support for certain DApp requests - BlockWallet now supports many new DApps!"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Added feature to speed-up or cancel pending transactions"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Added asset view"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Added confirmation and error screens across the app, improving UX"
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Multiple bug fixes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "version": "0.1.7",
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Added feature to turn off BlockWallet being the default wallet in the settings. Now also other browser wallets can be used!"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Added an about page"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Improve user flow for the address book"
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Fix Tornado errors"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Fix several visual bugs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "version": "0.1.9",
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Release of the BlockWallet phishing protection! A unique piece of generative art on certain wallet pages will now protect you against different phishing attacks."
+                        },
+                        {
+                            "type": "success",
+                            "message": "A label in the account page will now show which accounts are connected to the current DApp."
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Several bug fixes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "version": "0.2.0",
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Enabling support for privacy pools on BNB Chain."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Increase loading time performance."
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Several bug fixes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "version": "0.2.1",
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Add support for Polygon Privacy Pools"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Restore last wallet state after re-opening the wallet"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Add advanced privacy pool data"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Improved gas prices modal"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Change name 'BSC Network' to 'BNB Chain' according to rebrand"
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Several bug fixes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "version": "0.2.3",
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Add incoming ERC20 Transactions"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Added advanced privacy information"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Gas prices modal re-design"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Removed deprecated testnets"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Add support for unstoppable domains"
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Several bug fixes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Added support for Trezor and Ledger hardware wallets"
+                        }
+                    ]
+                }
+            ],
+            "version": "0.3.0"
+        },
+        {
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "warn",
+                            "message": "Remove Tornado functionality"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Large performance increases"
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Fix issues with password entry"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Fix issues with hardware wallet use"
+                        },
+                        {
+                            "type": "success",
+                            "message": "Several other bug fixes"
+                        }
+                    ]
+                }
+            ],
+            "version": "0.3.1"
+        },
+        {
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Swaps: you can now swap assets directly within BlockWallet."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Custom Network: search, add and connect to custom RPC networks."
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "warn",
+                            "message": "Minor improvements and bug fixes"
+                        }
+                    ]
+                }
+            ],
+            "version": "0.4.0"
+        },
+        {
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Added support for zkSync 2.0 Testnet."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Networks, accounts and token management UX improvements."
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "warn",
+                            "message": "Bug fixes and other minor improvements ."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Fixed compatibility with more dApps."
+                        }
+                    ]
+                }
+            ],
+            "version": "0.4.1"
+        },
+        {
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Added support for Scroll L1 and L2 Testnets."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Now you can change network display order with drag & drop."
+                        },
+                        {
+                            "type": "success",
+                            "message": "For our ETH/USD pair, we now retrieve price from Chainlink mainnet data feed contract."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Added current network indicator on Sends, Swaps, and Custom Tokens flows."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Asset selector now displays current balance."
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "warn",
+                            "message": "Improvements on balance fetching and validations for custom tokens."
+                        },
+                        {
+                            "type": "warn",
+                            "message": "Added warnings and complete display of DApp origin URL on relevant screens."
+                        },
+                        {
+                            "type": "warn",
+                            "message": "Minor visual improvements and other small bug fixes."
+                        }
+                    ]
+                }
+            ],
+            "version": "0.4.2"
+        },
+        {
+            "sections": [
+                {
+                    "title": "Updates",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Introducing BlockWallet Bridges: now you can bridge assets directly inside BlockWallet."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Users can now immediately switch networks after adding a new one from DApps."
+                        },
+                        {
+                            "type": "success",
+                            "message": "We added a warning when users try sending funds to a Null Address (0x0...0000)."
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "warn",
+                            "message": "Minor visual improvements."
+                        }
+                    ]
+                }
+            ],
+            "version": "0.5.0"
+        },
+        {
+            "sections": [
+                {
+                    "title": "v0.5.1",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Rootstock(RSK), Gnosis, and Optimism are now default networks."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Improved gas estimation on Polygon and other L2 networks."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Swaps are now available on the Aurora network."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Your experience will now be even smoother thanks to many minor improvements to the UI/UX and bugs fixed."
+                        }
+                    ]
+                }
+            ],
+            "version": "0.5.1"
+        },
+        {
+            "sections": [
+                {
+                    "title": "v0.5.2",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Bug fixes and improvements."
+                        }
+                    ]
+                }
+            ],
+            "version": "0.5.2"
+        },
+        {
+            "sections": [
+                {
+                    "title": "v0.5.3",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "RSK rebranded to Rootstock."
+                        },
+                        {
+                            "type": "warn",
+                            "message": "Fixed issues with some tokens decimals."
+                        }
+                    ]
+                }
+            ],
+            "version": "0.5.3"
+        },
+        {
+            "sections": [
+                {
+                    "title": "v0.5.4",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Added new Reset Account functionality."
+                        },
+                        {
+                            "type": "success",
+                            "message": "State logs can now be downloaded for better customer support."
+                        },
+                        {
+                            "type": "warn",
+                            "message": "Fixed gas estimation issues on some dApps."
+                        }
+                    ]
+                }
+            ],
+            "version": "0.5.4"
+        },
+        {
+            "sections": [
+                {
+                    "title": "Features",
+                    "notes": [
+                        {
+                            "type": "success",
+                            "message": "Default Gas setting. Set your preferred gas fee priority level for all future transactions."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Improved spam filtering for automatic token additions."
+                        },
+                        {
+                            "type": "success",
+                            "message": "Increased the frequency of updates for asset balances."
+                        }
+                    ]
+                },
+                {
+                    "title": "Fixes",
+                    "notes": [
+                        {
+                            "type": "warn",
+                            "message": "Fixed password validation issues on the onboarding flow."
+                        },
+                        {
+                            "type": "warn",
+                            "message": "Fixed transaction filtering issue on the Asset page."
+                        }
+                    ]
+                }
+            ],
+            "version": "0.5.5"
+        }
+    ]
+}
